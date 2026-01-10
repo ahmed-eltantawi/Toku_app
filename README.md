@@ -107,51 +107,123 @@ assets/
 
 ---
 
-## 🚀 Getting Started
+🎨 Assets Used
+Number Images (Acorns)
+The app uses acorn icons to represent numbers 1-10:
 
-### 1. Clone the repository
-```bash
-git clone <repository-url>
+🌰 Numbers are represented by groups of acorns
+Each acorn arrangement visually shows the quantity
+Makes learning more intuitive and fun
+
+Family Member Icons
+Emoji-style icons represent different family members:
+
+👧 Daughter
+👨 Father
+👴 Grandfather
+👵 Grandmother
+👩 Mother
+👦 Older Brother
+👧 Older Sister
+👶 Son
+🧒 Younger Brother
+👧 Younger Sister
+
+🚀 Installation and Running
+
+Clone the project
+
+bashgit clone <repository-url>
 cd toku_app
-```
 
-### 2. Install dependencies
-```bash
-flutter pub get
-```
+Install dependencies
 
-### 3. Run the app
-```bash
-flutter run
-```
+bashflutter pub get
 
----
+Run the app
 
-## 🎨 App Theme
+bashflutter run
+📖 How to Use
 
-- Numbers Page: `#400101`
-- Family Page: `#A62014`
-- Colors Page: `#D92818`
-- Phrases Page: `#D9A08B`
-- App Bar: `#533D35`
-- Home Background: `#FFFDE4`
+When you open the app, you'll see the home screen with four categories
+Tap on any category to enter it
+In each category, you'll find a list of items with:
 
----
+The word in English
+The word in Japanese
+An illustrative image (for numbers, colors, and family members)
+A play button to listen to the correct pronunciation
 
-## 🔮 Future Enhancements
 
-- More categories (Animals, Food, etc.)
-- Quiz mode
-- Progress tracking
-- Offline support
+Tap the play button ▶️ to hear the pronunciation
 
----
+🎨 Color Scheme
 
-## 📄 License
+Numbers Page: #400101 (Dark Red)
+Family Page: #A62014 (Red)
+Colors Page: #D92818 (Light Red)
+Phrases Page: #D9A08B (Beige)
+App Bar: #533D35 (Brown)
+Home Background: #FFFDE4 (Light Yellow)
+Content Background: #3B2E2C (Dark Brown)
 
+🔧 Future Enhancements
+
+Add new categories (animals, food, etc.)
+Add interactive quizzes
+Add progress tracking system
+Support additional interface languages
+Practice mode with spaced repetition
+Achievement system
+Offline mode optimization
+
+📝 Notes
+
+The app uses the audioplayers library to play audio files
+All assets (images and sounds) must be present in the assets folder
+The app supports devices running Android and iOS
+All audio files are in .mp3 or .wav format
+Images follow a consistent style for better UX
+
+🎯 Learning Content
+Numbers (1-10)
+
+One (ichi) - 一
+Two (Ni) - 二
+Three (Mittsu) - 三
+Four (4Tsu) - 四
+Five (Go) - 五
+Six (Muttsu) - 六
+Seven (Sebun) - 七
+Eight (Hachi) - 八
+Nine (Kyū) - 九
+Ten (Jū) - 十
+
+Sample Phrases
+
+"Are you coming?" - Kimasu ka
+"Don't forget to follow" - Kōdoku o o wasurenaku
+"How are you feeling?" - Go kibun wa ikagadesu ka
+"I love anime" - Watashi wa anime ga daisukidesu
+"What is your name?" - Anata no namae wa nandesuka
+
+👨‍💻 Contributing
+Contributions are welcome! If you'd like to improve the app:
+
+Fork the project
+Create a new feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
+📄 License
 This project is for educational purposes.
+🙏 Acknowledgments
 
----
+Audio files for Japanese pronunciation
+Icon assets for visual learning
+Flutter community for excellent documentation
 
-**Made with ❤️ using Flutter**  
-*Learn Japanese the fun way 🎌*
+
+Made with ❤️ using Flutter
+Learn Japanese the fun way! 🎌
