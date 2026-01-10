@@ -103,7 +103,6 @@ assets/
     ├── family_members/        # Family member audio files
     ├── colors/                # Color audio files
     └── phrases/               # Phrase audio files
-```
 
 ## 🎨 Assets Used
 
