@@ -22,7 +22,9 @@ It helps users learn essential Japanese words and phrases through clear categori
 This video demonstrates the app UI, navigation, and main features:
 
 📹 **Demo Video:**  
-👉 [Watch the demo](demo/toku_app_demo.mp4)
+
+https://github.com/user-attachments/assets/82acd0fb-7494-4316-893f-d9efeeba6226
+
 
 ---
 
