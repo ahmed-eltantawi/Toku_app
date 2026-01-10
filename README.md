@@ -188,7 +188,7 @@ Images follow a consistent style for better UX
 🎯 Learning Content
 Numbers (1-10)
 
-One (ichi) - 一
+One (ichi) - 一 \n
 Two (Ni) - 二
 Three (Mittsu) - 三
 Four (4Tsu) - 四
