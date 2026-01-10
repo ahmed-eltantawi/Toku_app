@@ -26,6 +26,10 @@ This video demonstrates the app UI, navigation, and main features:
 📹 **Demo Video:**  
 https://github.com/user-attachments/assets/82acd0fb-7494-4316-893f-d9efeeba6226
 ---
+---
+https://github.com/user-attachments/assets/82acd0fb-7494-4316-893f-d9efeeba6226
+
+---
 ## ✨ Features
 
 - 🎨 Clean and simple UI
