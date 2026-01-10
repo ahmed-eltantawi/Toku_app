@@ -24,10 +24,7 @@ It helps users learn essential Japanese words and phrases through clear categori
 This video demonstrates the app UI, navigation, and main features:
 
 📹 **Demo Video:**  
-
-https://github.com/user-attachments/assets 82acd0fb-7494-4316-893f-d9efeeba6226
-
-
+https://github.com/user-attachments/assets/82acd0fb-7494-4316-893f-d9efeeba6226
 ---
 ## ✨ Features
 
@@ -73,7 +70,39 @@ dependencies:
   audioplayers: ^6.5.1
 ```
 
----
+
+```
+
+## 📂 Project Structure
+
+```
+lib/
+├── main.dart                    # Main entry point
+├── Models/
+│   └── item.dart               # Data models (Number, PharaseModel)
+├── Screens/
+│   ├── home_page.dart          # Home screen
+│   ├── NumbersPage.dart        # Numbers screen
+│   ├── Family_page.dart        # Family members screen
+│   ├── Colors_page.dart        # Colors screen
+│   └── Phrases_page.dart       # Phrases screen
+└── components/
+    ├── category.dart           # Category component for home
+    ├── NormalItem.dart         # Normal item component (with image)
+    ├── phrasesItem.dart        # Phrase item component (without image)
+    └── ItemInfo.dart           # Item info component
+
+assets/
+├── images/
+│   ├── numbers/               # Number images (acorns 1-10)
+│   ├── family_members/        # Family member images
+│   └── colors/                # Color images
+└── sounds/
+    ├── numbers/               # Number audio files
+    ├── family_members/        # Family member audio files
+    ├── colors/                # Color audio files
+    └── phrases/               # Phrase audio files
+```
 
 ## 🎨 Assets Used
 
