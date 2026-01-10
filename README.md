@@ -73,6 +73,8 @@ dependencies:
 
 ```
 
+
+```
 ## 📂 Project Structure
 
 ```
@@ -103,7 +105,6 @@ assets/
     ├── colors/                # Color audio files
     └── phrases/               # Phrase audio files
 ```
-
 ## 🎨 Assets Used
 
 ### Number Images (Acorns)
