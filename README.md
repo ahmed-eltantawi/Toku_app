@@ -188,15 +188,24 @@ Images follow a consistent style for better UX
 🎯 Learning Content
 Numbers (1-10)
 
-One (ichi) - 一 \n
+One (ichi) - 一
+
 Two (Ni) - 二
+
 Three (Mittsu) - 三
+
 Four (4Tsu) - 四
+
 Five (Go) - 五
+
 Six (Muttsu) - 六
+
 Seven (Sebun) - 七
+
 Eight (Hachi) - 八
+
 Nine (Kyū) - 九
+
 Ten (Jū) - 十
 
 Sample Phrases
