@@ -4,6 +4,15 @@ An interactive Flutter application for learning basic Japanese vocabulary with i
 
 ---
 
+---
+
+# 🤖 Download the Android app here.
+[Donwload now](https://ahmedeltantawi.netlify.app/Toku.apk)
+
+---
+
+
+---
 ## 📱 Overview
 
 **Toku** is a beginner-friendly Japanese learning app built using **Flutter**.  
